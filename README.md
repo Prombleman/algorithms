@@ -1,1 +1,2 @@
-# algorithms
+# algorytmy
+Algorytmy ze szkoły
